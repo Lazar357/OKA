@@ -1,0 +1,21 @@
+@relation EnigmaDataset
+
+@attribute ngram_1 numeric
+@attribute ngram_2 numeric
+@attribute ngram_3 numeric
+@attribute ngram_4 numeric
+@attribute ngram_5 numeric
+@attribute ngram_6 numeric
+@attribute ngram_7 numeric
+@attribute ngram_8 numeric
+@attribute ngram_9 numeric
+@attribute ngram_10 numeric
+@attribute prosecna_udaljenost numeric
+@attribute stepen_kompresije numeric
+@attribute kolmogorovska_slozenost numeric
+@attribute senonova_entropija numeric
+@attribute entropija_divergencije numeric
+@attribute klasa {k1,k2}
+
+@data
+0.001653,0.001653,0.001653,0.000826,0.000826,0.000826,0.000826,0.000826,0.000826,0.000826,52.405405,0.831284,1.26786,6.447283,0.80591,k1
